@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c728760-4a20-4ac9-aa03-5b2bc4e63d36" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/src/DbUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.5.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/resources/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/resources/recordMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/HtmlGetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/HtmlGetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/Mail.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/Mail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/MainJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/MainJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/QuartScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/QuartScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/UrlSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/UrlSelector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/jedisUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/mybatisUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/HtmlGetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/HtmlGetter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/QuartScheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/QuartScheduler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/UrlSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/UrlSelector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/testQuart.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -58,14 +37,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="352">
-                <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <first_editor relative-caret-position="594">
+                <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -403,6 +391,7 @@
         <option value="$PROJECT_DIR$/main/src/QuartScheduler.java" />
         <option value="$PROJECT_DIR$/main/src/MainJob.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -440,12 +429,6 @@
               <item name="reptile" type="b2602c69:ProjectViewProjectNode" />
               <item name="reptile" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reptile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reptile" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -560,12 +543,12 @@
       <workItem from="1527647458422" duration="4899000" />
       <workItem from="1527661465076" duration="21701000" />
       <workItem from="1527733054525" duration="3889000" />
-      <workItem from="1527905913109" duration="12462000" />
+      <workItem from="1527905913109" duration="13395000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42951000" />
+    <option name="totallyTimeSpent" value="43884000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -909,10 +892,17 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="352">
-            <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <first_editor relative-caret-position="594">
+            <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
