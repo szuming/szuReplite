@@ -1,8 +1,13 @@
-import java.util.HashMap;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+/**
+ * @ClassName UrlSelector
+ * @Description 从包含所有url的html中使用正则表达式选取目标url
+ * @Author MING
+ * @Date 2018/6/2 14:51
+ * @Update 2018/6/2 14:51
+ **/
 public class UrlSelector {
     /**
      * 正则表达式获取urls跟对应的titles
@@ -26,5 +31,4 @@ public class UrlSelector {
         }
         return map;
     }
-
 }
